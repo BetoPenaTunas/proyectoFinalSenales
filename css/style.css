@@ -347,6 +347,7 @@ button {
      font-weight: 500;
      padding-bottom: 70px;
      display: block;
+     font-size: 25px;
 }
 
 .text_img {
@@ -1127,4 +1128,17 @@ ul.link_menu li a:hover {
 
 .logo-img{
      width: 1000px;
+}
+
+.footer1{
+     margin: auto;
+}
+
+.link-face{
+     color: white;
+     
+}
+
+.link-face:hover{
+     color:rgb(237, 209, 25);
 }
